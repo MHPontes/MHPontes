@@ -14,7 +14,7 @@
 </a>
 
 ##
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,idea,maven,gradle,mysql,postgres,linux&theme=light,react,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,idea,maven,gradle,mysql,postgres,react,js,linux&theme=light)](https://skillicons.dev)
 
 ##
 <a href="https://br.linkedin.com/in/mateushspontes" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
