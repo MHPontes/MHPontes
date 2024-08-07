@@ -1,7 +1,7 @@
 ### Hi there, I am Mateus Pontes 👋
 
 - 🔭 I’m currently working as a Back-End developer with Kotlin/Java at Grupo Boticário
-- 🌱 I’ve been studying Kafka, Rabbit and Spring Framework by myself, which i’m learning to broaden my knowledge
+- 🌱 I’ve been studying Kafka, Rabbit, ReactJS and Spring Framework by myself, which i’m learning to broaden my knowledge
 - 📫 This is how you can contact me: https://br.linkedin.com/in/mateushspontes
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: In my spare time i love playing games and studying History and Geopolitics, by reading and watching documentaries
